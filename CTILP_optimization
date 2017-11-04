@@ -2,8 +2,8 @@
 #
 # Module: CTILP_Optimization.py
 # Description: OSMnx, Gurobi, LP, ILP
+#              OSMNX from https://github.com/gboeing/osmnx Author: gboeing
 # Auther: Lenny Fan (Chi-Wen Fan)
-#
 ################################################################################
 
 import osmnx as ox  
